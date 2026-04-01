@@ -6,5 +6,3 @@ Collin Rodgers and Nehemiah McClain
 
 ## Dataset Selection 
 EuroMillions Historical Data
-
-Problem: Statistical Analysis of Randomness and Predictive Modeling of Lottery Drawings
